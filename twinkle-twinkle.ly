@@ -8,7 +8,7 @@
   \key c \minor
 
   c8\mf c g' g
-  a a <g d>
+  a aes <g d>
   f8 f e e
   d d <c g>4
 }
